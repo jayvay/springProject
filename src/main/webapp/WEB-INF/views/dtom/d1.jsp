@@ -24,6 +24,8 @@
   <div><img src="${ctp}/board/12.jpg" width="150px" /></div>
   <div><img src="${ctp}/pds/16.jpg" width="150px" /></div>
   <div><img src="${ctp}/pds/17.jpg" width="150px" /></div>
+  <hr/>
+	<p><a href="${ctp}/" class="btn btn-secondary">HOME</a></p>
 </div>
 <p><br/></p>
 </body>

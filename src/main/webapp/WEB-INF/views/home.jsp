@@ -51,8 +51,11 @@
 		<a href="${ctp}/ctom/c4" class="btn btn-dark">c4 호출</a> |
 		<a href="${ctp}/ctom/c5" class="btn btn-warning">c5 호출</a> |
 		<a href="${ctp}/ctom/c6" class="btn btn-dark">c6 호출</a> |
-		<a href="${ctp}/ctom/c7" class="btn btn-warning">c7 호출</a>
+		<a href="${ctp}/ctom/c7" class="btn btn-warning">c7 호출</a> |
+		<a href="${ctp}/ctom/c8" class="btn btn-dark">c8 호출</a>
 	</p>
+	<hr/>
+	<p><a href="${ctp}/dtom/d1" class="btn btn-success">d1 호출</a></p>
 	
 	
 	

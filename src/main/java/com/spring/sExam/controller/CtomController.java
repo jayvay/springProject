@@ -182,4 +182,9 @@ public class CtomController {
 		model.addAttribute("vo", vo);
 		return "ctom/c7";
 	}
+	
+	@RequestMapping(value = "/c8", method = RequestMethod.GET)
+	public String c8Get() {
+		return "ctom/c8";
+	}
 }
